@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Linda-404/Linda-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on a super secret sommer project that hopefully will have release this fall
+- 🔭 I’m currently working on a "super secret" sommer project that hopefully will have release this fall
 - 🌱 I’m currently learning frontend development and webdesign
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking for a job in webdesign so I can follow my dreams
+
+- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/linda-nilsson-8b82b01b2/ Email: linda.ellekari@gmail.com
+- ⚡ Fun facts: Memes are my love language, I can do this thing with my eyes that freaks people out
+- 
