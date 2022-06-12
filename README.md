@@ -1,8 +1,18 @@
-### Hi there 👋
+# Hi there 👋 I am Linda-404
 
-- 🔭 I’m currently working on a "super secret" sommer project that hopefully will have release this fall
-- 🌱 I’m currently learning frontend development and webdesign
-- 👯 I’m looking for a job in webdesign so I can follow my dreams
+## 🔭 What am I up to
+- I’m currently working on a "super secret" sommer project that hopefully will have release this fall
 
-- 📫 How to reach me: Linkedin: [My Linkedin page](https://www.linkedin.com/in/linda-nilsson-8b82b01b2/) Email: linda.ellekari@gmail.com
-- ⚡ Fun facts: Memes are my love language, I can do this thing with my eyes that freaks people out
+## 🌱 What have I been doing the last two years
+- I’m currently learning frontend development and webdesign
+
+## 👯 What is my plan
+- I’m looking for a job in webdesign so I can follow my dreams
+
+## 📫 Reach me
+- [My Linkedin page](https://www.linkedin.com/in/linda-nilsson-8b82b01b2/) 
+- Email: linda.ellekari@gmail.com
+
+## ⚡ Fun facts
+- Memes are my love language 
+- I can do this thing with my eyes that freaks people out
