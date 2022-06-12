@@ -6,4 +6,3 @@
 
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/linda-nilsson-8b82b01b2/ Email: linda.ellekari@gmail.com
 - ⚡ Fun facts: Memes are my love language, I can do this thing with my eyes that freaks people out
-- 
