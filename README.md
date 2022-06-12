@@ -1,12 +1,12 @@
 # Hi there 👋 I am Linda-404
 
 ## 🔭 What am I up to
-- I’m currently working on a "super secret" sommer project that hopefully will have release this fall
+- I’m currently working on a sommer project that hopefully will have release this fall
 
 ## 🌱 What have I been doing the last two years
-- I’m currently learning frontend development and webdesign
+- Studied frontend development and webdesign
 
-## 👯 What is my plan
+## 👯 What is my plan 
 - I’m looking for a job in webdesign so I can follow my dreams
 
 ## 📫 Reach me
